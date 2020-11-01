@@ -1,0 +1,20 @@
+{
+  "name": "medileaf-web-application",
+  "version": "1.0.0",
+  "description": "A web application that delivers accurate medical provider and services data using Better Doctor API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesafeerkhan/MediLeaf-Web-Application.git"
+  },
+  "author": "Safeer Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesafeerkhan/MediLeaf-Web-Application/issues"
+  },
+  "homepage": "https://github.com/thesafeerkhan/MediLeaf-Web-Application#readme"
+}
