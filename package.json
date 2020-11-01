@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thesafeerkhan/MediLeaf-Web-Application/issues"
   },
-  "homepage": "https://github.com/thesafeerkhan/MediLeaf-Web-Application#readme"
+  "homepage": "https://github.com/thesafeerkhan/MediLeaf-Web-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
